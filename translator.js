@@ -97,3 +97,5 @@ if (program.encode){
         })
     });
 }
+
+module.exports = program;
